@@ -69,8 +69,13 @@
   
 </ul>
 
-<h4> <b> Instruction </b> </h4>
+<h4> <b> Reccomendation </b> </h4>
 
+<ul>
+      <li>
+        Users can access the admin part is the main issue in this application. It's a must be fixed.
+      </li>
+    </ul>
 
 
 <h3 align="left">Connect with me:</h3>
