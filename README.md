@@ -21,9 +21,11 @@
   </li>
   <li>
     <b><i> This application has one error </i></b>
-    <li>
-      If you are login using Gmail you can access admin part.😰😰😰  
-    </li>
+    <ul>
+      <li>
+        If you are login using Gmail you can access admin part.😰😰😰  
+      </li>
+     </ul>
   </li>
 </ul>
 
