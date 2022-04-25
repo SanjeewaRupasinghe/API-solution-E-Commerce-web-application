@@ -9,7 +9,18 @@
 
 - 📄 Know about my experiences [https://github.com/SanjeewaRupasinghe/MyCV](https://github.com/SanjeewaRupasinghe/MyCV)
 
-If you want to login admin 
+<h4> <b> Instruction </b> </h4>
+<ul>
+  <li>
+    Home page http://localhost:8080/
+  </li>
+  <li>
+     Firstly you want to log in using Gmail. 
+  </li>
+  <li>
+    If you want to login admin part please type "/admin" end of the link
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
