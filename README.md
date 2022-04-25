@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://github.com/SanjeewaRupasinghe/MyCV](https://github.com/SanjeewaRupasinghe/MyCV)
 
-
+<br>
 <h4> <b> Instruction </b> </h4>
 <ul>
   <li>
@@ -39,6 +39,25 @@
       </li>
     </ul>
   </li>
+  
+  <li>
+    Data base management
+    <ul>
+      <li>
+        Used SQL
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    Front end
+    <ul>
+      <li>
+        Used HTML, CSS and JavaScript and Bootstrap framwork
+      </li>
+    </ul>
+  </li>
+  
 </ul>
 
 
