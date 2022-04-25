@@ -58,6 +58,15 @@
     </ul>
   </li>
   
+  <li>
+    Tools and Technology
+    <ul>
+      <li>
+        Used Post man for request developing and Google developer tools
+      </li>
+    </ul>
+  </li>
+  
 </ul>
 
 
