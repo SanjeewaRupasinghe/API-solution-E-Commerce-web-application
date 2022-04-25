@@ -1,0 +1,37 @@
+body{
+    background-color: #aaaa55;
+}
+
+.card-colour-ch{
+    /*background-color: #ccccb3;*/
+    box-shadow: 2px 2px 10px #55552b;
+    /*border: 0px transparent;*/
+}
+
+.card-colour-ch:hover{
+    box-shadow: 3px 3px 10px #aaaa55;
+}
+
+.hero-color-ch{
+    background-color: #8a8a5c;
+    font-weight:1000;
+}
+
+.back-image{
+    width: 100vw;
+    height: auto;
+    max-height: 80vh;
+}
+
+/*.btn btn-primary{*/
+/*    color: white;*/
+/*}*/
+
+/*.btn-colour-ch{*/
+/*    background-color: #222244;*/
+/*    color: red;*/
+/*}*/
+
+/*.btn-colour-ch a{*/
+/*    color: white;*/
+/*}*/
